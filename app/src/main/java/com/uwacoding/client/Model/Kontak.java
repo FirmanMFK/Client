@@ -1,5 +1,6 @@
 package com.uwacoding.client.Model;
 
+
 import com.google.gson.annotations.SerializedName;
 
 /**
